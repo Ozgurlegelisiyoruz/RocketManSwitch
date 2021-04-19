@@ -29,7 +29,8 @@ If the user gets to the point to get bonuses, he will win the game.
 You won't bother making a model for the road, just a small cube seems like; 
 
 If you model the area drawn in red for example, we will bend it on the Unity side and turn it into a collective path.Stack colors need the same character of the game and have a map texture and model suitable for the character.The Skooter and the Electric We'll Collect (you can think of it as gold or diamonds in hypercasual games) will be modeled.There are many games with 5 types of obstacles (Shortcut Run, etc.)
-Fail:
+
+# Fail: ❌
 If we hit obstacles or if we run out of energy, we will lose.
 
 
